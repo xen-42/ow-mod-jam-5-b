@@ -1,10 +1,22 @@
 {
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "ModPackTemplate.dll",
-  "author": "REPLACE ME!",
-  "name": "REPLACE ME!",
-  "uniqueName": "REPLACE ME!",
-  "version": "0.1.0",
+  "author": "A bunch of people",
+  "name": "Mod Jam 5 (B-Side)",
+  "uniqueName": "xen42.ModJam5Part2",
+  "version": "1.0.0",
   "owmlVersion": "2.15.1",
-  "dependencies": []
+  "dependencies": [
+    "xen-42.ModJam5",
+
+    "LeeSpork.ModJam5",
+    "Boreas.Jam5CakeCapere",
+    "Vambok.HearthianParable",
+    "Onbvb.catastrophe",
+
+    "Ender.Beryl.BrightSpark",
+    "APOLLO.939sPlanetdotSTRUCTURE",
+    "orclecle.Jam5PingBox",
+    "TeamGeswaldo.Jam5"
+  ]
 }
